@@ -60,4 +60,4 @@ jobs:
           uses: docker/build-push-action@v5
           with:
             push: true
-            tags: eduardamori/ci-exemple:latest
+            tags: eduardamori/ci-example:latest
